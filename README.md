@@ -23,14 +23,19 @@ I'm a full-stack developer with a passion for building fully-fledged application
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/)
 
+<!--
 ## My Projects:
 
 - [Project Name](repo-link) - Brief description of the project.
 - [Another Project](repo-link) - Brief description of this other project.
 
 ---
+-->
+
+<!--
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jonhualde&show_icons=true)
 
 ---
 
+-->
