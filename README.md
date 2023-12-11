@@ -12,10 +12,14 @@ I'm a full-stack developer with a passion for building fully-fledged application
 
 ## More About Me:
 
-🚀 I’m adept at JavaScript, TypeScript, ReactJS, NextJS and NestJS.
+🚀 I’m adept at JavaScript, TypeScript, ReactJS, NextJS, and NestJS.
+
 📚 I value clean code, performance optimization, and pragmatic problem-solving.
+
 🧩 I specialize in both front-end and back-end development, with a keen eye for UI/UX design.
+
 📈 I'm passionate about learning and growing with the developer community.
+
 
 ## Languages and Tools:
 
