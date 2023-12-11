@@ -2,7 +2,7 @@
 
 I'm a full-stack developer with a passion for building fully-fledged applications. Here's a bit about me:
 
-- 🔭 I’m working a web application for Kitesurfers, using ReactJS/NextJS on the Frontend and NestJS on the Backend.
+- 🔭 I’m working a web application for Kitesurfers, using NextJS on the Frontend and NestJS on the Backend.
 - 🌱 I’m currently enhancing my frontend expertise, diving into caching strategies and architectural patterns, alongside studying backend design for robust system structures.
 - 2️⃣ Embracing the fundamentals: I'm on a journey to learn C as my next programming milestone to fortify my foundations.
 - 👯 I’m looking to collaborate on open-source projects that make a difference.
