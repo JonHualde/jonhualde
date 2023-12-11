@@ -1,4 +1,4 @@
-### Hi there 👋, I'm [Your Name]!
+### Hi there 👋, I'm Jon
 
 I'm a full-stack developer with a passion for building fully-fledged applications. Here's a bit about me:
 
