@@ -31,6 +31,11 @@ I'm a full-stack developer with a passion for building fully-fledged application
 [![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)](https://github.com/features/actions)
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://docker.com/)
 
+## Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonHualde&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 ## My Projects:
 
