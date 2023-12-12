@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Jon
+## Hi there 👋, I'm Jon
 
 I'm a full-stack developer with a passion for building fully-fledged applications. Here's a bit about me:
 
@@ -10,7 +10,7 @@ I'm a full-stack developer with a passion for building fully-fledged application
 - 💬 Ask me about frontend frameworks.
 - ⚡ Escaping the IDE: When I'm not coding, I recharge by hiking up peaks or riding the waves with my kitesurf.
 
-## More About Me:
+## More About Me
 
 - 🚀 I’m adept at JavaScript, TypeScript, ReactJS, NextJS, and NestJS.
 - 📚 I value clean code, performance optimization, and pragmatic problem-solving.
@@ -18,7 +18,7 @@ I'm a full-stack developer with a passion for building fully-fledged application
 - 📈 I'm passionate about learning and growing with the developer community.
 
 
-## Languages and Tools:
+## Languages and Tools
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
