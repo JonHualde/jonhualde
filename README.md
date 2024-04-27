@@ -4,9 +4,8 @@ I'm a full-stack developer with a passion for building fully-fledged application
 
 - 🔭 I’m working a web application for Kitesurfers, using NextJS on the Frontend and NestJS on the Backend.
 - 🌱 I’m currently enhancing my frontend expertise, diving into caching strategies and architectural patterns, alongside studying backend design for robust system structures.
-- 👯 I’m looking to collaborate on open-source projects that make a difference.
 - 💡 I’m eager to collaborate on projects that integrate AI advancements into web technologies.
-- 💬 Ask me about frontend frameworks.
+- 🤝 Looking for a developer to build your next SaaS idea? Reach out to me!
 - ⚡ Escaping the IDE: When I'm not coding, I recharge by hiking up peaks or riding the waves with my kitesurf.
 
 ## More About Me
